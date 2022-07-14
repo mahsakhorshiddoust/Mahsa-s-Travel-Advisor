@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mahsa-s-Travel-Advisor/static/css/main.c124b6f8.css",
+    "main.js": "/Mahsa-s-Travel-Advisor/static/js/main.f26ceeba.js",
+    "index.html": "/Mahsa-s-Travel-Advisor/index.html",
+    "main.c124b6f8.css.map": "/Mahsa-s-Travel-Advisor/static/css/main.c124b6f8.css.map",
+    "main.f26ceeba.js.map": "/Mahsa-s-Travel-Advisor/static/js/main.f26ceeba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c124b6f8.css",
+    "static/js/main.f26ceeba.js"
+  ]
+}
