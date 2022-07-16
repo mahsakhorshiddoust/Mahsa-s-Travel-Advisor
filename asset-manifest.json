@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Mahsa-s-Travel-Advisor/static/css/main.c124b6f8.css",
-    "main.js": "/Mahsa-s-Travel-Advisor/static/js/main.1a2a29cc.js",
+    "main.js": "/Mahsa-s-Travel-Advisor/static/js/main.17f10dfa.js",
     "index.html": "/Mahsa-s-Travel-Advisor/index.html",
     "main.c124b6f8.css.map": "/Mahsa-s-Travel-Advisor/static/css/main.c124b6f8.css.map",
-    "main.1a2a29cc.js.map": "/Mahsa-s-Travel-Advisor/static/js/main.1a2a29cc.js.map"
+    "main.17f10dfa.js.map": "/Mahsa-s-Travel-Advisor/static/js/main.17f10dfa.js.map"
   },
   "entrypoints": [
     "static/css/main.c124b6f8.css",
-    "static/js/main.1a2a29cc.js"
+    "static/js/main.17f10dfa.js"
   ]
 }
