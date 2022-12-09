@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+<h2>Introduction to Travel Advisor Web App</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Welcome to the travel advisor web app! This app allows users to search for restaurants, bars, coffee shops, hotels, and attractions around the world and view detailed information about each one. It is built using JavaScript, React, Material-UI, and shows results on a map. It also includes a filter and search option.</p>
 
-## Available Scripts
+<h2>Installation</h2>
 
-In the project directory, you can run:
+<p>To install and set up the app on your machine, follow these steps:</p>
 
-### `npm start`
+<ol>
+  <li>Clone the repository to your local machine using the following command:
+  <pre><code>git clone https://github.com/mahsakhorshiddoust/Mahsa-s-Travel-Advisor.git</code></pre></li>
+  <li>Navigate to the root directory of the cloned repository and install the required dependencies using the following command:
+  <pre><code>npm install</code></pre></li>
+  <li>Once the dependencies have been installed, you can start the app by running the following command:
+  <pre><code>npm start</code></pre></li>
+</ol>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Usage</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p>To use the app, follow these steps:</p>
 
-### `npm test`
+<ol>
+  <li>Open a web browser and navigate to <a href="http://localhost:3000">http://localhost:3000</a> to view the app.</li>
+  <li>Enter a location in the search bar and press the Enter key to search for it.</li>
+  <li>Use the filter and search options to narrow down the results.</li>
+  <li>Click on a place in the search results or on the map to view its detailed information.</li>
+  <li>Click the link to view the place's page on TripAdvisor.</li>
+</ol>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>Technologies</h2>
 
-### `npm run build`
+<ul>
+  <li>JavaScript: A programming language that is used to create interactive websites.</li>
+  <li>React: A JavaScript library for building user interfaces.</li>
+  <li>Material-UI: A CSS framework that implements Google's Material Design.</li>
+</ul>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>Future development</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>Some potential future developments for this app include:</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<ul>
+  <li>Adding the ability to save favorite places to a user's profile.</li>
+  <li>Adding the ability to book a hotel or make a reservation at a restaurant within the app.</li>
+</ul>
 
-### `npm run eject`
+<h2>Credits</h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<ul>
+  <li>The place data used in this app is provided by the Rapid API.</li>
+  <li>The map used in this app is provided by the Google Maps API.</li>
+</ul>
